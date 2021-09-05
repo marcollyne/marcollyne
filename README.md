@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?marcollyne=ralfprezia&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcollyne&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
 
 </div>
 
@@ -45,6 +45,6 @@
 
 <div align="center">
   
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?marcollyne=ralfprezia&show_icons=true&theme=tokyonight)
+![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcollyne&show_icons=true&theme=tokyonight)
 
 </div>
