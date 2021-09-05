@@ -1,16 +1,50 @@
-### Hi there 👋
+<h2 align="center">Helloooooo!</h1>
 
-<!--
-**marcollyne/marcollyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome to my profile 👋</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?marcollyne=ralfprezia&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+- 📫 How to reach me **karollynemarcola@gmail.com**
+
+</div>
+
+ <h3 align="center">Connect with me:</h3>
+
+   <p align="left">
+
+  <li align="center">
+
+   <a class="url" href="https://www.linkedin.com/in/karollyne-marcola-a93472195/" img> 
+
+    Linkedin
+
+   </a>
+
+  </li>
+
+  <li align="center">
+
+   <a class="url" href="https://api.whatsapp.com/send?phone=5544991536881/" img> 
+
+    Whatsapp
+
+   </a>
+
+  </li>
+ 
+</br>
+
+<div align="center">
+  
+![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?marcollyne=ralfprezia&show_icons=true&theme=tokyonight)
+
+</div>
