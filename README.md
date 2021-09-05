@@ -48,6 +48,6 @@
 ![Karollyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcollyne&show_icons=true&theme=tokyonight)
  
  
- <img src="https://camo.githubusercontent.com/" data-canonical-src="https://api.visitorbadge.io/api/VisitorHit?marcollyne=estruyf&amp;marcollyne=github-visitors-badge&amp;countColor=%23EB7284" style="max-width: 100%;">
+<img src="https://api.visitorbadge.io/api/visitors?path=marcollyne%2Fmarcollyne&amp;label=VISITORS&amp;labelColor=%23cccccc&amp;countColor=%236b343d" alt="Page Views">
 
 </div>
