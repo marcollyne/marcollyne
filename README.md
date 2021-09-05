@@ -45,6 +45,7 @@
 
 <div align="center">
   
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcollyne&show_icons=true&theme=tokyonight)
-
+![Karollyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcollyne&show_icons=true&theme=tokyonight)
+                                                   
+<a class="url" href="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=marcollyne&repo=marcollyne&countColorcountColor" </a>
 </div>
