@@ -49,6 +49,8 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=marcollyne%2Fmarcollyne&amp;label=VISITORS&amp;labelColor=%231a1b27&amp;countColor=%231a1b27&style=flat" alt="Page Views">
 </div> 
 
-![Snake animation](https://github.com/marcollyne/marcollyne/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://github.com/marcollyne/marcollyne/blob/output/github-contribution-grid-snake.svg" alt="cobrinha" /> 
+</div>
 
 </div>
