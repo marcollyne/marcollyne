@@ -11,7 +11,7 @@
 </div>
 </br>
 <p align="center"> 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcollyne&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,&theme=github_dark">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcollyne&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&,&theme=github_dark">
  
 <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcollyne&hide_title=false&hide_border=true&layout=compact&langs_count=8&text_color=ffffff&icon_color=ffffff_color=0,&theme=github_dark">
 </p>
