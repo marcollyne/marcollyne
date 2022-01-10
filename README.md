@@ -1,14 +1,9 @@
 <h2 align="center">Helloooooo!</h1>
 
 <h1 align="center">Welcome to my profile 👋</h1>
-
-
 </br>
-
 <div align="center">
-
 - 📫 How to reach me **karollynemarcola@gmail.com**
-
 </div>
 
  <h3 align="center">Connect with me:</h3>
@@ -17,7 +12,7 @@
 
   <li align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/karollyne-marcola-a93472195/" img> 
+   <a class="url" href= "https://www.linkedin.com/in/karollyne-marcola-a93472195/" target="_blank" img> 
 
     Linkedin
 
