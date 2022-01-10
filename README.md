@@ -1,36 +1,14 @@
-<h2 align="center">Helloooooo!</h1>
+<h3 align="center"> 👋 Hello World! 🌎 </h3>
 
-<h1 align="center">Welcome to my profile 👋</h1>
+<h4 align="center"> ✨ Welcome to my profile ✨ </h4>
 </br>
 <div align="center">
-- 📫 How to reach me **karollynemarcola@gmail.com**
+ <p> Get in touch by: </p>
+ <p> 📫 karollynemarcola@gmail.com </p>
+ <p><a class="url" href= "https://www.linkedin.com/in/karollyne-marcola-a93472195/" target="_blank"> 🌊 Linkedin </a> </p>
+ <p><a href="https://api.whatsapp.com/send?phone=5544991536881/" target="_blank"> 📞 Whatsapp </a></p>
+ <p><a href="https://t.me/Karollyne_Marcola" target="_blank">  📱 Telegram </a></p>
 </div>
-
- <h3 align="center">Connect with me:</h3>
-
-   <p align="left">
-
-  <li align="center">
-
-   <a class="url" href= "https://www.linkedin.com/in/karollyne-marcola-a93472195/" target="_blank" img> 
-
-    Linkedin
-
-   </a>
-
-  </li>
-
-  <li align="center">
-
-   <a class="url" href="https://api.whatsapp.com/send?phone=5544991536881/" img> 
-
-    Whatsapp
-
-   </a>
-
-  </li>
- 
-</br>
 
 <p align="center"> 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcollyne&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
