@@ -5,8 +5,8 @@
 <div align="center">
  <p> Get in touch by: </p>
  <p> 📫 karollynemarcola@gmail.com </p>
- <p><a class="url" href= "https://www.linkedin.com/in/karollyne-marcola-a93472195/" target="_blank"> 🌊 Linkedin </a> </p>
- <p><a href="https://api.whatsapp.com/send?phone=5544991536881/" target="_blank"> 📞 Whatsapp </a></p>
+ <p><a href= "https://www.linkedin.com/in/karollyne-marcola-a93472195/" target="_blank"> 🌊 Linkedin </a> </p>
+ <a href="https://api.whatsapp.com/send?phone=5544991536881/" target="_blank"> 📞 Whatsapp </a>
  <p><a href="https://t.me/Karollyne_Marcola" target="_blank">  📱 Telegram </a></p>
 </div>
 
