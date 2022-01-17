@@ -16,6 +16,9 @@
  <a href="https://t.me/Karollyne_Marcola" alt="Telegram" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+ <a href="https://dribbble.com/karollyne_marcola" alt="Dribbble" target="_blank">
+  <img src=" https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
+</a>
 </div>
 </br>
 <p align="center"> 
