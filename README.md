@@ -3,7 +3,7 @@
 <h4 align="center"> ✨ Welcome to my profile ✨ </h4>
 </br>
 <div align="center">
- <p> Get in touch by: </p>
+ <p> Get in touch </p>
  <p>karollynemarcola@gmail.com </p>
   <a href="https://www.linkedin.com/in/karollyne-marcola-a93472195/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -17,11 +17,8 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
  
- <a href="dribbble.com/karollyne_marcola" alt="Dribbble" target="_blank">
+ <a href="https://dribbble.com/karollyne_marcola" alt="Dribbble" target="_blank">
  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
 </a>
- 
-</div>
 
 </br>
-</div>
